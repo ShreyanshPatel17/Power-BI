@@ -115,7 +115,7 @@ This dashboard provides a complete snapshot of banking operations and overall bu
 
 ## Project File
 
-- Banking Dashboard Power BI Project (`.pbix`)
+- Banking Dashboard OTC.pbix
 
 ---
 
@@ -132,6 +132,7 @@ This dashboard provides a complete snapshot of banking operations and overall bu
 
 ## Author
 
-**Shreyansh Patel**
+**Shreyansh Patel**  
 
-- GitHub: https://github.com/ShreyanshPatel17
+- 📧 Email: 17Shreyanshpatel@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/shreyanshpatel17  
